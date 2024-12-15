@@ -28,6 +28,7 @@
 
 
 
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaPVSantos&layout=compact&langs_count=5&theme=tokyonight)
 
 
 ---
