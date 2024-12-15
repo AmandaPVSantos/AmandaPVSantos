@@ -1,6 +1,6 @@
-- 👋 Olá, seja bem vindo(a). Me chmado Amanda.
+- 👋 Olá, seja bem vindo(a)! Me chmado Amanda.
   
-- 👩🏻‍💻 Apaixonada por tecnologia e programação.
+- 👩🏻‍💻 Sou apaixonada por tecnologia e programação.
   
 - 📚 Sempre procuro aprimorar meus conhecimentos na área, pois não consigo me ver sem programação.
   
