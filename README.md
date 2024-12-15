@@ -20,7 +20,7 @@
 
 ## 💡 Projetos em Destaque
 - 🔗 [Clone do Spotify](#https://amandapvsantos.github.io/Imers-o-front-end--main/)  
-- 🔗 [Landing Page Cafeteria](#[link-repo-cafeteria](https://landing-page-de-cafeteria.vercel.app/))  
+- 🔗 [Landing Page Cafeteria](https://landing-page-de-cafeteria.vercel.app/)  
 
 ## 🌟 Curiosidades
 - 🎯 Estou sempre em busca de novos desafios na área de desenvolvimento.  
