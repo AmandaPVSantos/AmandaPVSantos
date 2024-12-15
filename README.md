@@ -26,9 +26,9 @@
 ---
 
 ## Contato
-- 📧 **E-mail**: [email@example.com](mailto:avsantos573@gmail.com)  
-- 🌐 **Portfólio**: [www.seu-portfolio.com](#https://portifolio-atualizadoo.vercel.app/index.html)  
-- 💼 **LinkedIn**: [Seu LinkedIn](#www.linkedin.com/in/amanda-veiga-a9927a303)
+- 📧 **E-mail**: (mailto:avsantos573@gmail.com)  
+- 🌐 **Portfólio**: (#https://portifolio-atualizadoo.vercel.app/index.html)  
+- 💼 **LinkedIn**: (#www.linkedin.com/in/amanda-veiga-a9927a303)
 
 <!---
 AmandaPVSantos/AmandaPVSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
