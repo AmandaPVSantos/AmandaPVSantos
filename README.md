@@ -19,7 +19,7 @@
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 💡 Projetos em Destaque
-- 🔗 [Clone do Spotify](#https://amandapvsantos.github.io/Imers-o-front-end--main/)  
+- 🔗 [Clone do Spotify](https://amandapvsantos.github.io/Imers-o-front-end--main/)  
 - 🔗 [Landing Page Cafeteria](https://landing-page-de-cafeteria.vercel.app/)  
 
 ## 🌟 Curiosidades
