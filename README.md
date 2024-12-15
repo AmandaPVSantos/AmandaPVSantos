@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmandaPVSantos
+- 👋 Olá, seja bem vindo(a). Me chmado Amanda.
   
 - 👩🏻‍💻 Apaixonada por tecnologia e programação.
   
