@@ -1,7 +1,8 @@
 # 👋 Olá, seja bem-vindo(a)!
 
 ## Sobre mim
-- 👩🏻‍💻 Me chamo **Amanda**, sou apaixonada por tecnologia e programação.  
+- 👩🏻‍💻 Me chamo **Amanda**, sou apaixonada por tecnologia e programação.
+- Sou formada em ADS, atualmente cursando Ciência da Computação.
 - 📚 Sempre busco aprimorar meus conhecimentos, pois programação é uma parte essencial da minha vida.  
 - 📸 Adoro fotografia e amo registrar cada momento.  
 - ☕ Apaixonada pela cultura geek, animes e, claro, café!
