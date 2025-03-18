@@ -3,7 +3,6 @@
 ## Sobre mim
 - 👩🏻‍💻 Me chamo **Amanda**, sou apaixonada por tecnologia e programação.
 - 📔 Sou formada em ADS, atualmente cursando Ciência da Computação.
-- 📚 Sempre busco aprimorar meus conhecimentos, pois programação é uma parte essencial da minha vida.  
 - 📸 Adoro fotografia e amo registrar cada momento.  
 - ☕ Apaixonada pela cultura geek, animes e, claro, café!
 
@@ -19,15 +18,10 @@
 - 🌱 Atualmente aprendendo: 
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 💡 Projetos em Destaque
-- 🔗 [Clone do Spotify](https://amandapvsantos.github.io/Imers-o-front-end--main/)  
-- 🔗 [Landing Page Cafeteria](https://landing-page-de-cafeteria.vercel.app/)  
 
 ## 🌟 Curiosidades
 - 🎯 Estou sempre em busca de novos desafios na área de desenvolvimento.  
 - ✨ Meu objetivo atual: Aperfeiçoar meus conhecimentos como desenvolvedora Front-end.  
-
-
 
 ---
 
