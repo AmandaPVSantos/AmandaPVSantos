@@ -3,8 +3,6 @@
 ## Sobre mim
 - 👩🏻‍💻 Me chamo **Amanda**, sou apaixonada por tecnologia e programação.
 - 📔 Sou formada em ADS, atualmente cursando Ciência da Computação.
-- 📸 Adoro fotografia e amo registrar cada momento.  
-- ☕ Apaixonada pela cultura geek, animes e, claro, café!
 
 
 ## 🚀 Tecnologias e Habilidades
