@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
+# Olá, seja bem-vindo(a) ao meu perfil!
 
 ## ✨ Sobre mim
 Oi! Eu sou a **Amanda Santos**, apaixonada por tecnologia, desenvolvimento Front-end e por aprender algo novo todos os dias.  
