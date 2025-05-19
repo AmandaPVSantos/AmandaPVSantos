@@ -1,30 +1,36 @@
-# 👋 Olá, seja bem-vindo(a)!
+# 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-## Sobre mim
-- 👩🏻‍💻 Me chamo **Amanda**, sou apaixonada por tecnologia e programação.
-- 📔 Sou formada em ADS, atualmente cursando Ciência da Computação.
+## ✨ Sobre mim
+Oi! Eu sou a **Amanda Santos**, apaixonada por tecnologia, desenvolvimento Front-end e por aprender algo novo todos os dias.  
+💻 Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Ciência da Computação**.  
 
+Gosto de transformar ideias em interfaces funcionais e intuitivas, explorando boas práticas e sempre em busca de evolução como desenvolvedora.
 
-## 🚀 Tecnologias e Habilidades
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 🚀 Tecnologias e Ferramentas
+Atualmente, tenho experiência com as seguintes tecnologias:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+---
 
-## 🌟 Curiosidades
-- 🎯 Estou sempre em busca de novos desafios na área de desenvolvimento.  
-- ✨ Meu objetivo atual: Aperfeiçoar meus conhecimentos como desenvolvedora Front-end.  
+## 🌱 Em constante evolução...
+- 🎯 Buscando sempre novos desafios e aprendizados na área de desenvolvimento.
+- 📚 Estudando e praticando para me tornar uma desenvolvedora Front-end cada vez mais completa.
+- 💡 Interesse especial por projetos que envolvem criatividade, acessibilidade e boas experiências de usuário.
 
 ---
 
-## Contato
-- 📧 **E-mail**: (avsantos573@gmail.com)  
-- 🌐 **Portfólio**: (https://portifolio-atualizadoo.vercel.app/index.html)  
-- 💼 **LinkedIn**: (www.linkedin.com/in/amanda-veiga-a9927a303)
+## 📫 Vamos conversar?
+Se quiser trocar uma ideia, tirar dúvidas ou conhecer mais sobre meus projetos, me chama por aqui:
 
-<!---
-AmandaPVSantos/AmandaPVSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 **E-mail**: [avsantos573@gmail.com](mailto:avsantos573@gmail.com)  
+- 🌐 **Portfólio**: [portifolio-atualizadoo.vercel.app](https://portifolio-atualizadoo.vercel.app/index.html)  
+- 💼 **LinkedIn**: [linkedin.com/in/amanda-veiga-a9927a303](https://www.linkedin.com/in/amanda-veiga-a9927a303)
+
+---
