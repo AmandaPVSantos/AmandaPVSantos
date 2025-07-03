@@ -1,9 +1,10 @@
-# Olá, seja bem-vindo(a) ao meu perfil!
+# 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Oi! Eu sou a **Amanda**, apaixonada por tecnologia, desenvolvimento e por aprender algo novo todos os dias.  
-Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Ciência da Computação**.  
+Oi! Eu sou a **Amanda**, desenvolvedora **Fullstack** apaixonada por tecnologia e por aprender algo novo todos os dias.  
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Ciência da Computação**.
 
-Gosto de transformar ideias em interfaces funcionais e intuitivas, explorando boas práticas e sempre em busca de evolução como desenvolvedora.
+Gosto de transformar ideias em interfaces funcionais e intuitivas, criando aplicações que entregam valor real para as pessoas.  
+Tenho experiência tanto com **front-end** quanto com **plataformas low-code**, buscando sempre boas práticas e evolução contínua como desenvolvedora.
 
 ---
 
