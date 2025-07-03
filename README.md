@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a) ao meu perfil!
 
 ## ✨ Sobre mim
-Oi! Eu sou a **Amanda Santos**, apaixonada por tecnologia, desenvolvimento Front-end e por aprender algo novo todos os dias.  
+Oi! Eu sou a **Amanda**, apaixonada por tecnologia, desenvolvimento Front-end e por aprender algo novo todos os dias.  
 💻 Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Ciência da Computação**.  
 
 Gosto de transformar ideias em interfaces funcionais e intuitivas, explorando boas práticas e sempre em busca de evolução como desenvolvedora.
@@ -21,7 +21,6 @@ Atualmente, tenho experiência com as seguintes tecnologias:
 
 ## 🌱 Em constante evolução...
 - 🎯 Buscando sempre novos desafios e aprendizados na área de desenvolvimento.
-- 📚 Estudando e praticando para me tornar uma desenvolvedora Front-end cada vez mais completa.
 - 💡 Interesse especial por projetos que envolvem criatividade, acessibilidade e boas experiências de usuário.
 
 ---
