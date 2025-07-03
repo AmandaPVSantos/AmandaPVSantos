@@ -22,14 +22,3 @@ Atualmente, tenho experiência com as seguintes tecnologias:
 ## 🌱 Em constante evolução...
 - 🎯 Buscando sempre novos desafios e aprendizados na área de desenvolvimento.
 - 💡 Interesse especial por projetos que envolvem criatividade, acessibilidade e boas experiências de usuário.
-
----
-
-## 📫 Vamos conversar?
-Se quiser trocar uma ideia, tirar dúvidas ou conhecer mais sobre meus projetos, me chama por aqui:
-
-- 📧 **E-mail**: [avsantos573@gmail.com](mailto:avsantos573@gmail.com)  
-- 🌐 **Portfólio**: [portifolio-atualizadoo.vercel.app](https://portifolio-atualizadoo.vercel.app/index.html)  
-- 💼 **LinkedIn**: [linkedin.com/in/amanda-veiga-a9927a303](https:www.linkedin.com/in/amanda-santos-a9927a303)
-
----
