@@ -3,12 +3,10 @@
 Oi! Eu sou a **Amanda**, desenvolvedora **Fullstack** apaixonada por tecnologia e por aprender algo novo todos os dias.  
 Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Ciência da Computação**.
 
-Gosto de transformar ideias em interfaces funcionais e intuitivas, criando aplicações que entregam valor real para as pessoas.  
-Tenho experiência tanto com **front-end** quanto com **plataformas low-code**, buscando sempre boas práticas e evolução contínua como desenvolvedora.
 
 ---
 
-## 🖥️ Tecnologias e Frameworks
+## 🌐 Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,7 +16,14 @@ Tenho experiência tanto com **front-end** quanto com **plataformas low-code**, 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 🛠️ Back-end e Integração
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
@@ -38,9 +43,9 @@ Tenho experiência tanto com **front-end** quanto com **plataformas low-code**, 
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078d4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 
-
 ---
 
-## 🌱 Em constante evolução...
-- 🎯 Buscando sempre novos desafios e aprendizados na área de desenvolvimento.
-- 💡 Interesse especial por projetos que envolvem criatividade, acessibilidade e boas experiências de usuário.
+##  🎯 Em constante evolução...
+- Buscando sempre novos desafios e aprendizados na área de desenvolvimento **Fullstack**.
+- Interesse especial por projetos que envolvem criatividade, acessibilidade e boas experiências de usuário.
+- Gosto de transformar ideias em interfaces funcionais e intuitivas, criando aplicações que entregam valor real para as pessoas.  
