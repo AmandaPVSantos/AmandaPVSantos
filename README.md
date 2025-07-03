@@ -1,15 +1,13 @@
 # Olá, seja bem-vindo(a) ao meu perfil!
 
-## ✨ Sobre mim
 Oi! Eu sou a **Amanda**, apaixonada por tecnologia, desenvolvimento e por aprender algo novo todos os dias.  
-💻 Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Ciência da Computação**.  
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando **Ciência da Computação**.  
 
 Gosto de transformar ideias em interfaces funcionais e intuitivas, explorando boas práticas e sempre em busca de evolução como desenvolvedora.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-Atualmente, tenho experiência com as seguintes tecnologias:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
