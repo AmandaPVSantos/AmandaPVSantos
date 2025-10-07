@@ -22,8 +22,6 @@ Front-end
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-rest-api-is-a-software-interface-that-allows-two-applications-to-communicate-with-each-other-logo-color-tal-revivo.png" width="40" height="40" alt="REST API"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 </p>
 
